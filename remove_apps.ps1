@@ -30,4 +30,5 @@ Get-AppxPackage *Mail*   | Remove-AppxPackage
 Get-AppxPackage *Movies*   | Remove-AppxPackage
 Get-AppxPackage **   | Remove-AppxPackage
 
+Get-AppxPackage *windowsstore* | Remove-AppxPackage
 
