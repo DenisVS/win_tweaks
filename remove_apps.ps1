@@ -22,6 +22,7 @@ Get-AppxPackage *phonelink* | Remove-AppxPackage
 Get-AppxPackage *yourphone*   | Remove-AppxPackage
 
 Remove-appxpackage Microsoft.MicrosoftEdge.Stable_92.0.902.67_neutral__8wekyb3d8bbwe
+Remove-appxpackage Microsoft.MicrosoftEdge_44.19041.1266.0_neutral__8wekyb3d8bbwe
 
 Get-AppxPackage *Calculator*   | Remove-AppxPackage
 Get-AppxPackage *Alarm*   | Remove-AppxPackage
